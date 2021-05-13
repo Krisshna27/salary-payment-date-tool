@@ -18,4 +18,4 @@ The base salaries are paid on the last day of the month unless that day is a Sat
 
 Rune the below command to execute the application
 
-'php CalculatePayrollDates.php <output-file-name.csv>'
+`php CalculatePayrollDates.php <output-file-name.csv>`
